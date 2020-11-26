@@ -8,7 +8,7 @@ function Home() {
     }
 
     return <div>
-            <h1>Home Memo : {contador} </h1>
+            <h1>Home : {contador} </h1>
             <button onClick={adcCounter}>Contar</button>
            </div>
 }
